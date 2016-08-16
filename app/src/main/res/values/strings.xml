@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Audio Router</string>
+    <string name="app_description">Change application audio routing</string>
+    <string name="play_test">Play test</string>
+    <string name="hide_launcher_icon">Hide launcher icon</string>
+    <string name="view_source">View source</string>
+    <string name="version">v%s</string>
+    <string name="app_version">v%s</string>
+</resources>
